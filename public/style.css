@@ -1,0 +1,19 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: url(img/courtback.jpg);
+  background-size: cover;
+  color: white;
+}
+img{
+  height: 200px;
+}
+li{
+  list-style: none;
+}
+span{
+  margin: auto 20px;
+}
+.jumbotron{
+  color: black;
+}
